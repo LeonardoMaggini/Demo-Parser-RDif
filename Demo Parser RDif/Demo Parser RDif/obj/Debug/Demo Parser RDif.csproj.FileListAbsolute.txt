@@ -1,0 +1,11 @@
+D:\Proyectos .NET\Demo Parser RDif\Demo Parser RDif\bin\Debug\Demo Parser RDif.exe.config
+D:\Proyectos .NET\Demo Parser RDif\Demo Parser RDif\bin\Debug\Demo Parser RDif.exe
+D:\Proyectos .NET\Demo Parser RDif\Demo Parser RDif\bin\Debug\Demo Parser RDif.pdb
+D:\Proyectos .NET\Demo Parser RDif\Demo Parser RDif\bin\Debug\LgServerAPI.dll
+D:\Proyectos .NET\Demo Parser RDif\Demo Parser RDif\bin\Debug\LgServerAPI.pdb
+D:\Proyectos .NET\Demo Parser RDif\Demo Parser RDif\obj\Debug\Demo Parser RDif.csprojResolveAssemblyReference.cache
+D:\Proyectos .NET\Demo Parser RDif\Demo Parser RDif\obj\Debug\Demo_Parser_RDif.Form1.resources
+D:\Proyectos .NET\Demo Parser RDif\Demo Parser RDif\obj\Debug\Demo_Parser_RDif.Properties.Resources.resources
+D:\Proyectos .NET\Demo Parser RDif\Demo Parser RDif\obj\Debug\Demo Parser RDif.csproj.GenerateResource.Cache
+D:\Proyectos .NET\Demo Parser RDif\Demo Parser RDif\obj\Debug\Demo Parser RDif.exe
+D:\Proyectos .NET\Demo Parser RDif\Demo Parser RDif\obj\Debug\Demo Parser RDif.pdb
